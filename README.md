@@ -1,6 +1,6 @@
 # Traffic Flow Prediction Using LSTM
 
-Welcome to the Traffic Flow Prediction project, where we leverage the power of LSTM (Long Short-Term Memory) networks to forecast vehicle traffic flow. This project is a practical application of deep learning techniques to real-world time series data, providing valuable insights for urban planning and traffic management.
+Welcome to the Traffic Flow Prediction project, where we leverage the power of LSTM (Long Short-Term Memory) networks to forecast vehicle traffic flow. 
 
 ## Project Description
 
