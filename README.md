@@ -1,4 +1,4 @@
-# Traffic Flow Prediction Using LSTM
+# Traffic Flow Prediction Using LSTM ✅
 
 Welcome to the Traffic Flow Prediction project, where we leverage the power of LSTM (Long Short-Term Memory) networks to forecast vehicle traffic flow. 
 
